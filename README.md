@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Salman-Sali
-- 👀 I’m interested in .Net, WPF
-- 🌱 I’m currently learning .Net
-- 📫 How to reach me live:salman.salih_1
+contact@salmansali.com
